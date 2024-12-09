@@ -39,4 +39,4 @@ marginal_prob_B=marginal_probability(df,3,'Variable_B')
 print("Marginal Probabilty P(B=3): ",marginal_prob_B)
 
 cond_prob=conditional_probability(df,3,4)
-print("Conditional Probability P(A=1|B=4): ",cond_prob)
+print("Conditional Probability P(A=3|B=4): ",cond_prob)
